@@ -25,6 +25,10 @@ enableRobotsTXT = true
   ShowRssButtonInSectionTermList = true
   disableSpecial1stPost = true
 
+  # Banner on the home page, and the preview image when links are shared.
+  logo = 'images/logo.jpg'
+  images = ['images/logo.jpg']
+
   # Analytics: set to your GoatCounter site code (the "xyz" in
   # xyz.goatcounter.com) to enable page-view tracking on production builds.
   goatcounter = ''

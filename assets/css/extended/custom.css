@@ -1,0 +1,7 @@
+.home-logo {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: var(--gap);
+    border-radius: var(--radius);
+}
