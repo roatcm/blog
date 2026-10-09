@@ -1,7 +1,7 @@
 +++
 date = '2026-10-09'
-draft = true
-title = 'The Anti-Machieavel'
+draft = false
+title = 'The Anti-Machiavel'
 tags = ['dark triad', 'sociopath', 'management']
 summary = 'Jousting with a sociopath.'
 +++
