@@ -1,0 +1,52 @@
+baseURL = 'https://roatcm.github.io/blog-roatcm/'
+locale = 'en-us'
+title = 'Reminiscences Of A Tech Company Manager'
+theme = 'PaperMod'
+
+# Render all dates in UTC so timestamps don't hint at the author's location.
+timeZone = 'UTC'
+enableGitInfo = false
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[params]
+  description = 'Anonymous notes from inside the tech industry.'
+  author = 'roatcm'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  disableSpecial1stPost = true
+
+  # Analytics: set to your GoatCounter site code (the "xyz" in
+  # xyz.goatcounter.com) to enable page-view tracking on production builds.
+  goatcounter = ''
+
+  [params.homeInfoParams]
+    Title = 'Reminiscences Of A Tech Company Manager'
+    Content = 'Anonymous notes from inside the tech industry.'
+
+[menus]
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 10
+  [[menus.main]]
+    name = 'Archive'
+    pageRef = '/archives'
+    weight = 20
+  [[menus.main]]
+    name = 'Tags'
+    pageRef = '/tags'
+    weight = 30
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 40
