@@ -1,4 +1,4 @@
-baseURL = 'https://roatcm.github.io/blog-roatcm/'
+baseURL = 'https://roatcm.github.io/blog/'
 locale = 'en-us'
 title = 'Reminiscences Of A Tech Company Manager'
 theme = 'PaperMod'
