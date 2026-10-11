@@ -1,9 +1,9 @@
 +++
-date = '2026-10-09'
+date = '2026-07-09'
 draft = false
 title = 'The Anti-Machiavel'
-tags = ['dark triad', 'sociopath', 'management', 'headcount', 'empire-building']
-summary = 'Jousting with a sociopath.'
+tags = ['dark triad', 'sociopath', 'management', 'headcount', 'empire-building', 'fired']
+summary = 'Learing from years jousting with a sociopath.'
 +++
 
 I distinctly remember the day when I was introduced to a person that would be perhaps the single greatest career challenge I have had in over 25 years. It was mid April 2018, and I'd been recently minted manager of a team of business analysts and ML engineers for only a few months. I was reporting to a Director of Go-To-Market sales, who reported into our new VP. The more cynical among us may call GTM sales as applying "common sense" to try and sell people products they may or may not need. Anyway, my team's job was figuring out if we changed our pricing strategy, churn rate, cross-sell success or improved customer retention, how this would affect long term revenue. In effect, my team made a guess, and wrapped it with enough jargon that we were sure we gave an answer the VPs actually wanted to hear, couched in scientific terms. 
