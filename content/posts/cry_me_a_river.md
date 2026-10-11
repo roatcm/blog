@@ -1,5 +1,5 @@
 +++
-date = '2026-10-1-'
+date = '2026-10-10'
 draft = false
 title = 'Cry Me A River'
 tags = ['woke', 'sociopaths', 'sensitives']
