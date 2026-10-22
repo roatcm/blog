@@ -3,7 +3,7 @@ date = '2025-11-09'
 draft = false
 title = 'The Goggle-Eyed Angry Founder'
 tags = ['anger-management', 'sleazebags', 'dirty', 'wrong', 'empire-building', 'fired']
-summary = 'Learing from years jousting with a sociopath.'
+summary = 'The worst goggle-eyed boss anyone has ever had.'
 +++
 
 A few years after starting out in the business systems division, I was free and easy in the most dangerous sense of the axiom, I had more money than I knew what to do with, no mortgage, no dependents, and absolutely no idea what I was about. I was the kind of young man who could be talked into almost anything by a sufficiently confident person with a corporate card. So when the company opened a shiny new European office in Germany, and the boss leaned over my desk one grey Thursday afternoon and asked if I knew anyone who’d fancy spending some time out there to help get them up and running, I didn’t so much volunteer as lunge. Visions of European fun and frolics on the company tab danced in my head like sugarplums laced with cheap amphetamine. Long lunches. Late nights. Expense reports written in a language I could pretend not to understand. I signed up there and then, before he’d even finished the sentence.
