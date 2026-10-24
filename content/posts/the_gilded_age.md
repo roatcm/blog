@@ -1,5 +1,5 @@
 +++
-date = '2026-10-22'
+date = '2023-04-13'
 draft = false
 title = 'The Gilded Age'
 tags = ['excess', 'waste', 'spending', 'tech', 'hubris']
