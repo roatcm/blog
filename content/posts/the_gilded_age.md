@@ -52,7 +52,7 @@ I had a drawer at home I couldn't open. It was full of fleece. I'd try to open i
 
 ## The Holiday Parties
 
-The couple of weeks immedately after Thanksgiving were the high holy day of days, the feast of the fattened ever-providing Golden Calf and it's end-of-year parth. Entire downtown venues were booked out, not rooms, *venues*, buildings that normally hosted boxing matches and Billy Joel, for a few thousand people at a time. And the booze. The booze and the food came pouring out in a torrent of waste so violent you'd have thought it was the last night before the Rapture and somebody'd tipped off the caterers.
+The couple of weeks immedately after Thanksgiving were the high holy day of days, the feast of the fattened ever-providing Golden Calf and it's end-of-year party. Entire downtown venues were booked out, not rooms, *venues*, buildings that normally hosted boxing matches and Billy Joel, for a few thousand people at a time. And the booze. The booze and the food came pouring out in a torrent of waste so violent you'd have thought it was the last night before the Rapture and somebody'd tipped off the caterers.
 
 I saw an ice sculpture of the company logo melting into a tray of oysters at one in the morning, and I remember thinking, with a clarity that only the fourth gin can provide, *this is it. This is the whole thing. This is the entire economy in one frozen, dripping, shellfish-scented metaphor.* I tried to explain this to a solutions architect from Denver. He told me to try the sliders.
 
