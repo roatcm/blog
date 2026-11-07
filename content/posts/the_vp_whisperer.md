@@ -6,9 +6,7 @@ tags = ['operators', 'office politics', 'weasels', 'name droppers', 'turf wars',
 summary = 'On the self-appointed mouthpiece of the VP, the private question that turns into a public ambush, and the fine art of handling a rattlesnake in your parlour.'
 +++
 
-Every org has one. If you've been in the game long enough, you've met them, and if you think your org doesn't have one, I have bad news for you, friend. It's probably you.
-
-I'm talking about the VP Whisperer. The courtier. The self-appointed keeper of the royal ear.
+Every org has one. If you've been in the game long enough, you've met them, and if you think your org doesn't have one, I have bad news for you, friend. It's probably you. I'm talking about the VP Whisperer. The courtier. The self-appointed keeper of the royal ear.
 
 We'll call this one Casey. That isn't their name, and they'd be thrilled to know they'd made it into print, which is precisely why the real one stays locked in the drawer with the other unexploded ordnance.
 
@@ -26,8 +24,6 @@ The name got dropped so often it left dents in the conference table. And always,
 
 Whether any of these conversations had happened in the form described is a question I could never answer. I suspect some of them were real. I suspect a great many more were a thirty-second exchange by the lift that had been inflated, in the retelling, into a Camp David summit. That's the beauty of the con. Nobody's going to march up to a VP and ask, "Did you actually say that, or is Casey running a ventriloquist act with your face?" Nobody has that kind of career death wish.
 
----
-
 Casey spent their every waking hour "getting ahead." I put it in quotes because that's how they'd say it, with the earnest little glow of someone describing a spiritual practice. Getting ahead with senior management. Getting ahead of the narrative. Getting ahead of the rest of us, mainly, which they seemed to think was the same thing as doing a good job.
 
 And in that pursuit, there was one thing that infuriated Casey above all others. It wasn't missed deadlines, or broken pipelines, or a customer screaming down the phone. It was my calendar.
@@ -40,8 +36,6 @@ Because an agenda is a commitment. An agenda is a paper trail. An agenda means y
 
 So the meeting invites would arrive blank. "Quick sync." "Catch up." "Touch base." I'd decline and ask for an agenda. They'd go over my head and complain that I was "difficult to engage with." Which, when you think about it, was the most accurate thing Casey ever said about me.
 
----
-
 Here's the thing you learn about operators like Casey, if you spend enough time watching them work. What they *don't* say in a private meeting is every bit as important as what they do.
 
 The words coming out of their mouth were mostly misdirection. A magician's patter. Look over here, at this harmless question about roadmap alignment, while the other hand is reaching into your pocket for your team's work. You'd come out of a one-on-one with Casey feeling vaguely like you'd had a pleasant chat, and then three days later you'd realise you'd been pickpocketed, and that the thing they'd been fishing for was buried in a throwaway line at the eleventh minute.
@@ -49,8 +43,6 @@ The words coming out of their mouth were mostly misdirection. A magician's patte
 There was always a scheme. Something properly Machiavellian, cooked up in the dark with all the slow patience of a stew left on the hob overnight. And the scheme was almost always the same: stake a claim on someone else's work, and plant a flag on it before anyone noticed.
 
 The grand ambition, as far as I could ever tell, was to install themselves in some kind of oversight role. Over me. Over my team. Over, ideally, anyone whose work might one day produce a slide that could be shown upstairs. Casey didn't want to build the railroad. Casey wanted to stand at the junction and wave the little flag and have everyone think they'd laid the track.
-
----
 
 The day I truly understood what I was dealing with, it was over a piece of work my team was doing that was, frankly, the most promising thing to come out of that department in a long time.
 
@@ -67,8 +59,6 @@ But that wasn't the point. The point was never whether my team's work was duplic
 So the play was simple. Get it shut down. Strangle it in the crib. If you can't take the credit, make sure no one gets it.
 
 I've seen a lot of low moves in my time. That one still sits with me. Not because it was clever. Because it was so nakedly, shamelessly *small*.
-
----
 
 Any interaction with Casey, from that point on, had to be handled with the delicacy you'd use on a rattlesnake you'd found coiled up under your parlour sofa. Or a particularly odious skunk that had wandered in through the cat flap and was now eyeing the good rug. Slow movements. No sudden noises. Don't turn your back. And whatever you do, never, ever give it something to work with.
 
@@ -94,8 +84,6 @@ The first time it happened, I sat staring at my screen with the slow, cold, craw
 
 The second time, I was ready.
 
----
-
 Here's what I learned, the hard way, for anyone out there currently trapped in a building with their own Casey. Write this on the inside of your eyelids.
 
 **Never answer a scope question in private.** If someone DMs you asking where your team's responsibilities begin and end, the correct answer is: "Great question. Let's get it on the agenda for the next staff meeting so everyone's aligned." Then watch them squirm. A private question about ownership is never just a question. It's a deposition.
@@ -107,8 +95,6 @@ Here's what I learned, the hard way, for anyone out there currently trapped in a
 **Document your team's work early and publicly.** Good work done quietly is good work waiting to be stolen. Demo it. Write it up. Put your team's names on it in big letters where the higher-ups can see. A flag already planted is a lot harder to pull up.
 
 **And watch what they don't say.** Every Casey meeting has a hidden item. Your job is to find it before it finds you.
-
----
 
 I'd love to tell you there was a grand comeuppance. That Casey's three-legged chair finally collapsed under the weight of a board presentation, that the VP turned to them one day and said, "I've never had a coffee with you in my life," and that security escorted them off the premises while the whole floor stood and applauded.
 
