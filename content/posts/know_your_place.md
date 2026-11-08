@@ -3,7 +3,7 @@ date = '2023-09-18'
 draft = false
 title = 'Know Your Place'
 tags = ['office politics', 'management', 'sabbatical', 'called out', 'ultimatums', 'ambition']
-summary = 'How one manager''s month at sea, spent ruminating on his own greatness, sailed him straight into the firing line.'
+summary = "How one manager's month at sea, spent ruminating on his own greatness, sailed him straight into the firing line."
 +++
 
 Dennis was one of my first managers in the business. A largely fair man, a good egg, the kind of boss who'd remember your kids' names and buy the first round on a Friday without making a song and dance about it. But Dennis was also a man with obvious, glaring, neon-lit ambition. You could see it from orbit.
