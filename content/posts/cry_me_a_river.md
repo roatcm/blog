@@ -2,7 +2,7 @@
 date = '2026-06-10'
 draft = false
 title = 'Cry Me A River'
-tags = ['woke', 'sociopaths', 'sensitives', 'fired']
+tags = ['woke', 'sociopaths', 'data', 'fired']
 summary = 'Clutching at pearls and getting all upset over nothing.'
 +++
 

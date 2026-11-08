@@ -2,7 +2,7 @@
 date = '2023-04-13'
 draft = false
 title = 'The Gilded Age'
-tags = ['excess', 'waste', 'spending', 'tech', 'hubris']
+tags = ['excess', 'hype', 'hubris']
 summary = 'A dispatch from the long-gone era of copious waste, written with the shakes.'
 +++
 

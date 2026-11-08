@@ -2,7 +2,7 @@
 date = '2026-07-09'
 draft = false
 title = 'The Anti-Machiavel'
-tags = ['dark triad', 'sociopath', 'management', 'headcount', 'empire-building', 'fired']
+tags = ['office politics', 'operators', 'sociopaths', 'empire-building', 'fired']
 summary = 'Learing from years jousting with a sociopath.'
 +++
 

@@ -2,7 +2,7 @@
 date = '2025-11-09'
 draft = false
 title = 'The Goggle-Eyed Angry Founder'
-tags = ['anger-management', 'sleazebags', 'dirty', 'wrong', 'empire-building', 'fired']
+tags = ['bad bosses', 'assholes', 'empire-building', 'fired']
 summary = 'The worst goggle-eyed boss anyone has ever had.'
 +++
 

@@ -2,7 +2,7 @@
 date = '2026-11-07'
 draft = false
 title = 'The VP Whisperer'
-tags = ['operators', 'office politics', 'weasels', 'name droppers', 'turf wars', 'assholes']
+tags = ['office politics', 'operators', 'ambition', 'empire-building', 'assholes']
 summary = 'On the self-appointed mouthpiece of the VP, the private question that turns into a public ambush, and the fine art of handling a rattlesnake in your parlour.'
 +++
 

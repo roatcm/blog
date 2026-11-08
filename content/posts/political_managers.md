@@ -2,7 +2,7 @@
 date = '2024-10-31'
 draft = false
 title = 'The Political and the Slick'
-tags = ['operators', 'office politics', 'weasels', 'two-faced', 'good guys', 'assholes']
+tags = ['office politics', 'operators', 'bad bosses', 'assholes']
 summary = 'Surviving greasy political managers: a dispatch from the trenches, written with a steady hand and an unsteady stomach.'
 +++
 

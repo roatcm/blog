@@ -2,7 +2,7 @@
 date = '2025-01-04'
 draft = false
 title = 'Being Good Is Never Good Enough'
-tags = ['layoffs', 'office politics', 'pushed out', 'data', 'schemas', 'competency']
+tags = ['office politics', 'bad bosses', 'competence', 'data', 'layoffs', 'pushed out']
 summary = 'The most technically capable boss I ever had, and why the swines in leadership fed him into the woodchipper.'
 +++
 

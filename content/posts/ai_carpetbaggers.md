@@ -2,7 +2,7 @@
 date = '2026-10-22'
 draft = false
 title = 'The AI Carpetbagger'
-tags = ['spoofers', 'chancers', 'useless', 'snakeoil']
+tags = ['grifters', 'hype', 'ai', 'layoffs']
 summary = 'Selling dreams to morons.'
 +++
 

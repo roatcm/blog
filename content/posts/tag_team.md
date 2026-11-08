@@ -2,7 +2,7 @@
 date = '2024-11-28'
 draft = false
 title = 'Tag-Team Hucksters'
-tags = ['hiring', 'office politics', 'incompetent', 'back channels', 'neopotism', 'stroke politics']
+tags = ['office politics', 'grifters', 'hiring', 'nepotism']
 summary = 'Two marketing hucksters and their tag-team hiring racket.'
 +++
 

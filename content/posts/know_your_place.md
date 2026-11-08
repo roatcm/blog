@@ -2,7 +2,7 @@
 date = '2023-09-18'
 draft = false
 title = 'Know Your Place'
-tags = ['office politics', 'management', 'sabbatical', 'called out', 'ultimatums', 'ambition']
+tags = ['office politics', 'ambition', 'hubris', 'competence', 'pushed out']
 summary = "How one manager's month at sea, spent ruminating on his own greatness, sailed him straight into the firing line."
 +++
 
