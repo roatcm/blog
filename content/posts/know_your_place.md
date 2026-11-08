@@ -14,8 +14,6 @@ He knew, or at least thought he knew, what "good" looked like. And he had arrive
 
 It is a lovely theory. I believed it myself, once. I'd like to believe it still.
 
-## The Gospel of Good
-
 You have to understand what "good" meant to Dennis, because it was a very specific liturgy, and he observed it with the devotion of a monk.
 
 Good meant the monthly reports went out on time. Every time. Not a day late, not an hour late, not a minute past nine on the first working day of the month, even if it meant Dennis was sat in the office at eleven at night with a cold slice of pizza and a spreadsheet the size of a small European country.
@@ -32,9 +30,7 @@ The people who get ushered through the oak doors are a different breed entirely.
 
 Dennis believed in the gospel. And the trouble with believing in a gospel is that, sooner or later, you start expecting the miracle.
 
-## The Loyalty Holiday
-
-The company had a tradition. After five years of service, they'd bestow upon you a month's holiday and an extra month's salary as a reward for your "loyalty." A sabbatical, of sorts. A little pat on the head and a sugar cube for the faithful old horse who hadn't yet bolted for a competitor.
+The company had a tradition. After five years of service, they'd bestow upon you a month's holiday and an extra month's salary as a reward for your "loyalty". A little pat on the head and a sugar cube for the faithful old horse who hadn't yet bolted for a competitor.
 
 Five years in tech is a geological age. Most people never got near it. The ones who did were treated a bit like returning war veterans, people would ask what they were going to do with their month, and there'd be a cake, and someone from HR would make a short, faintly awkward speech about "commitment" and "the journey."
 
@@ -43,8 +39,6 @@ Dennis was coming up fast on his five years, and he had a plan. He was going to 
 And off he went. Hyannis, Nantucket, the Vineyard. Salt air, open water, gulls wheeling overhead. Freedom.
 
 Here's the thing nobody tells you about a month alone on a boat. There is an awful lot of *time*.
-
-## Thirty Days of Rumination
 
 Somewhere between singing sea shanties and fastening the yardarm, Dennis started to think.
 
@@ -59,8 +53,6 @@ It's a dangerous thing, a man alone with his grievances and a great deal of open
 His ruminations concluded that he had been unfairly undervalued and mistreated by the company, and that this howling oversight would surely be corrected if only it were properly confronted and exposed. It wasn't that they didn't value him, you see. It was that nobody had ever *made* them. All he had to do was walk in, lay out the facts, and justice would roll down like waters.
 
 So a month later, tanned and weather-beaten, salt still crusted in his eyebrows, Dennis came back from his vacation with the conviction of some anti-hero in a Western. A man who's been wronged. A man who's ridden into town at high noon, spurs jangling, looking for the sheriff.
-
-## High Noon
 
 We noticed it straight away. Dennis was *different*. There was a new set to his jaw. He'd stopped taking requests from upstairs with that eager, helpful smile. A director came over on his second day back asking for an ad hoc cut of something, and Dennis just looked at him, calmly, and said, "Put it in a ticket." The director walked away looking like he'd been slapped with a wet fish.
 
@@ -86,8 +78,6 @@ Not even a flutter. I don't think they so much as paused to take a sip of water.
 
 An ultimatum only works if you're willing to lose, and if the other side is genuinely afraid of losing you. Dennis was willing. The business simply wasn't afraid. And a gun you point at someone who doesn't care if you pull the trigger isn't a threat. It's just a heavy thing you're holding.
 
-## The Pop-Up
-
 A couple of weeks later, we were all in a meeting room. Dennis was presenting something from his laptop, plugged into the big screen at the end of the table. I think it was the quarterly reporting roadmap. I genuinely don't remember. What I do remember, with a clarity that still makes me wince a decade and a half later, is what happened next.
 
 A little notification popped up in the bottom corner of the screen. Right over the slides. Projected, eight feet wide, for the whole room to see.
@@ -101,8 +91,6 @@ The team all saw it. Dennis saw that they saw it. And we all saw Dennis seeing t
 To his eternal credit, Dennis closed the notification, cleared his throat, and finished the presentation. All of it. Every slide. I've thought about that a lot since. It was the bravest thing I ever saw him do, and also the saddest.
 
 It was an ignominious end for a nice guy. A good manager, a decent human, but someone who simply could not read the room. Except that one day, in that one meeting, when he read it perfectly, and realised the horse had long since bolted, the stable door was swinging in the wind, and somebody from HR was already measuring up the stall for a new occupant.
-
-## What I Learned From Dennis
 
 I was young when this happened, and it rattled me. It was the first time I'd seen the machine up close, the moment where the friendly face of the company slips and you catch a glimpse of the gears underneath. I've seen it many times since, but you never forget the first one.
 
@@ -122,6 +110,4 @@ I lost touch with Dennis not long after he left. Last I heard, he'd landed on hi
 
 But I still think about him every time someone tells me they're "owed" a promotion. Every time I see someone come back from a long holiday with that particular glint in their eye, that high-noon squint, that look of a man who's spent too long talking to the gulls.
 
-I want to grab them by the shoulders and say: *I know. I know you're right. I know they don't deserve you.*
-
-*Now go back to your desk, smile, and update your CV.*
+I want to grab them by the shoulders and say: *I know. I know you're right. I know they don't deserve you. So just go update your resume instead.*
